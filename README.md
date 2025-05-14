@@ -24,16 +24,6 @@ Pastikan Anda sudah menginstal:
 | TypeScript| npm install -g typescript | -                |
 | ts-node   | npm install -g ts-node | -                |
 
-## 📁 Struktur Proyek
-broadcast-server/
-├── src/
-│   ├── index.ts        # Entry point dan penanganan CLI
-│   ├── server.ts       # Logika server WebSocket
-│   └── client.ts       # Logika client WebSocket
-├── package.json        # Konfigurasi dependensi dan skrip proyek
-├── tsconfig.json       # Konfigurasi TypeScript
-└── README.md           # Dokumentasi proyek
-
 ## 🛠️ Instalasi
 
 Clone repositori (jika ada) atau buat folder baru:
